@@ -4,9 +4,8 @@ Aplicação de chat em tempo real desenvolvida com Java 8 e Spring Boot, utiliza
 
 Projeto criado para aprofundar conhecimentos em comunicação assíncrona e arquitetura orientada a eventos no ecossistema Spring.
 
-🚀 Demonstração
 
-Aplicação permite:
+🚀 Demonstração
 
 ✅ Conexão via WebSocket
 
@@ -18,8 +17,6 @@ Aplicação permite:
 
 🏗️ Arquitetura do Projeto
 
-O backend foi estruturado seguindo boas práticas de organização e separação de responsabilidades:
-
 chat
  ├── frontend
  │   └── index.html
@@ -29,6 +26,7 @@ chat
  │   ├── ChatMessage
  │   └── WebSocketConfig
  └── pom.xml
+ 
 🔹 Componentes
 
 ChatApplication → Inicialização da aplicação Spring Boot
