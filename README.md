@@ -28,3 +28,27 @@ O frontend é uma interface web simples feita com **HTML, CSS e JavaScript**, co
 ## 🏗️ Backend (Spring Boot)
 
 A lógica do servidor é baseada em eventos com suporte WebSocket configurado via Spring:
+
+
+🔹 Usa STOMP para publicar/assinar tópicos  
+🔹 Recebe mensagens dos clientes e distribui para todos conectados
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Frontend             | Backend                   | Build             |
+|----------------------|---------------------------|-------------------|
+| HTML5                | Java 8                    | Maven             |
+| CSS3                 | Spring Boot               |                   |
+| JavaScript           | WebSocket + STOMP         |                   |
+
+---
+
+## 🚀 Como Rodar o Projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/DanloxBR/chat.git
+cd chat
