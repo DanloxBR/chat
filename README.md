@@ -14,18 +14,6 @@ Projeto criado para aprofundar conhecimentos em comunicação assíncrona e arqu
 ✅ Broadcast para múltiplos usuários
 
 ✅ Atualização dinâmica sem refresh da página
-
-🏗️ Arquitetura do Projeto
-
-chat
- ├── frontend
- │   └── index.html
- ├── src/main/java/br/com/danieldev/chat
- │   ├── ChatApplication
- │   ├── ChatController
- │   ├── ChatMessage
- │   └── WebSocketConfig
- └── pom.xml
  
 🔹 Componentes
 
