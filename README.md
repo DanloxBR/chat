@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat 🚀  
+# 💬 Chat em Tempo Real  
 **Chat em tempo real com Spring Boot + WebSocket**
 
 Esse é um projeto de chat em tempo real construído com **Java 8**, **Spring Boot** e **WebSocket (STOMP)**, que demonstra comunicação bidirecional instantânea entre cliente e servidor.
